@@ -15,5 +15,5 @@ Steps
 - The `HomeContent/HomeScreen` is recomposed when the permission is requested and when it is granted/rejected.
 
 #### Question(s)
-- How to avoid unnecessary layout recompsing when the data is present in the `HomeViewModel` and it has nothing to do with the UI?
+- How to avoid unnecessary layout recompsition when the data is present in the `HomeViewModel` and it has nothing to do with the UI?
 - Does the reomposition affect the performance of the application? If so, then how to improve it?
